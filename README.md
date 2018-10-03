@@ -1,2 +1,3 @@
 # UP
-Repository para estudos
+Repository para estudos na disciplina de algoritmo.
+
