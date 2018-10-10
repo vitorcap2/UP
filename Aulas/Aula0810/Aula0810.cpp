@@ -54,7 +54,7 @@ int main()
 
 	printf("Informe um valor\n");
 
-	scanf_s("%i", &f);
+	//scanf_s("%i", &f);
 	
 	printf("\nVoce digitou %i\n", f); // verificacao
 
