@@ -1,14 +1,11 @@
 // Aula1010.cpp : Defines the entry point for the console application.
 //
-
 #include "stdafx.h"
 #include <stdlib.h>
-
 void HelloWorld() //void não tem retorno
 {
 	printf("Hello world!\n");
 }
-
 int Soma2Valores(int a, int b)
 {
 	int c;
@@ -25,7 +22,7 @@ int subtracao(int a, int b)
 {
 	int v;
 	v = a / b;
-	return v; 
+	return v;
 }
 int multi(int a, int b)
 {
@@ -33,7 +30,6 @@ int multi(int a, int b)
 	h = a * b;
 	return h;
 }
-
 int main()
 {
 	HelloWorld();
@@ -45,11 +41,9 @@ int main()
 	int p = test(e, f);
 	int z = subtracao(e, f);
 	int n = multi(e, f);
-	printf("\nResultado: %i\n",d);
+	printf("\nResultado: %i\n", d);
 	printf("Subtracao: %i\n", p);
 	printf("Divisao: %i\n", z);
 	printf("Multiplicacao: %i\n", n);
 	system("pause");
-    return 0;
-}
-
+	return 0;

@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Aula1010", "Aula1010\Aula10
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Aula1010_CalculadoraSimples", "Aula1010_CalculadoraSimples\Aula1010_CalculadoraSimples.vcxproj", "{9C2FAFF5-3717-4A16-9DB3-B8A9865B243A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Aula1710_condicionais", "Aula1710_condicionais\Aula1710_condicionais.vcxproj", "{D74B53DD-053B-4849-9655-4404BAA3FC26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,16 @@ Global
 		{9C2FAFF5-3717-4A16-9DB3-B8A9865B243A}.Release|x64.Build.0 = Release|x64
 		{9C2FAFF5-3717-4A16-9DB3-B8A9865B243A}.Release|x86.ActiveCfg = Release|Win32
 		{9C2FAFF5-3717-4A16-9DB3-B8A9865B243A}.Release|x86.Build.0 = Release|Win32
+		{D74B53DD-053B-4849-9655-4404BAA3FC26}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{D74B53DD-053B-4849-9655-4404BAA3FC26}.Debug|x64.ActiveCfg = Debug|x64
+		{D74B53DD-053B-4849-9655-4404BAA3FC26}.Debug|x64.Build.0 = Debug|x64
+		{D74B53DD-053B-4849-9655-4404BAA3FC26}.Debug|x86.ActiveCfg = Debug|Win32
+		{D74B53DD-053B-4849-9655-4404BAA3FC26}.Debug|x86.Build.0 = Debug|Win32
+		{D74B53DD-053B-4849-9655-4404BAA3FC26}.Release|Any CPU.ActiveCfg = Release|Win32
+		{D74B53DD-053B-4849-9655-4404BAA3FC26}.Release|x64.ActiveCfg = Release|x64
+		{D74B53DD-053B-4849-9655-4404BAA3FC26}.Release|x64.Build.0 = Release|x64
+		{D74B53DD-053B-4849-9655-4404BAA3FC26}.Release|x86.ActiveCfg = Release|Win32
+		{D74B53DD-053B-4849-9655-4404BAA3FC26}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
