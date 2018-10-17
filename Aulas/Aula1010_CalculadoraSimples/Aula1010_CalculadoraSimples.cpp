@@ -25,7 +25,7 @@ int subtracao(int a, int b)
 {
 	int v;
 	v = a / b;
-	return v; 
+	return v;
 }
 int multi(int a, int b)
 {
@@ -45,11 +45,10 @@ int main()
 	int p = test(e, f);
 	int z = subtracao(e, f);
 	int n = multi(e, f);
-	printf("\nResultado: %i\n",d);
+	printf("\nResultado: %i\n", d);
 	printf("Subtracao: %i\n", p);
 	printf("Divisao: %i\n", z);
 	printf("Multiplicacao: %i\n", n);
 	system("pause");
-    return 0;
+	return 0;
 }
-
