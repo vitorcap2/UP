@@ -74,3 +74,24 @@ int main()
     return 0;
 }
 
+void infpar_impar(int a)
+{
+	if (a % 2 == 0)
+	{
+		printf("Par\n");
+	}
+	else
+	{
+		printf("Impar \n");
+	}
+}
+
+
+
+
+
+int main()
+{
+
+}
+
